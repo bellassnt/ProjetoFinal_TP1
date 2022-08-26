@@ -1,0 +1,15 @@
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\bin\Debug\net6.0\MyPlaylist.exe
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\bin\Debug\net6.0\MyPlaylist.deps.json
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\bin\Debug\net6.0\MyPlaylist.runtimeconfig.json
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\bin\Debug\net6.0\MyPlaylist.dll
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\bin\Debug\net6.0\MyPlaylist.pdb
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\MyPlaylist.csproj.AssemblyReference.cache
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\MyPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\MyPlaylist.AssemblyInfoInputs.cache
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\MyPlaylist.AssemblyInfo.cs
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\MyPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\MyPlaylist.dll
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\refint\MyPlaylist.dll
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\MyPlaylist.pdb
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\MyPlaylist.genruntimeconfig.cache
+C:\Users\bella\OneDrive\Área de Trabalho\Top Coders\Técnicas de programação I\MyPlaylist\MyPlaylist\obj\Debug\net6.0\ref\MyPlaylist.dll
