@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 
-namespace WebApplication1
+namespace MusicStreamingService
 {
     public class Repository<Song> : IRepository<Song>
     {

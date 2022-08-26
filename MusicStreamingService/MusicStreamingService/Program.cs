@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using WebApplication1;
+using MusicStreamingService;
 
 var builder = WebApplication.CreateBuilder(args);
 

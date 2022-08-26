@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace WebApplication1.Controllers
+namespace MusicStreamingService.Controllers
 {
     [Route("api/greatestSongsOfAllTime")]
     [ApiController]

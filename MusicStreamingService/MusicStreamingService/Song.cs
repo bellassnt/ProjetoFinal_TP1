@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace WebApplication1
+namespace MusicStreamingService
 {
     public class Song
     {

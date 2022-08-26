@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MyPlaylist\\MyPlaylist\\MyPlaylist.csproj": {}
+    "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MyPlaylist\\MyPlaylist\\MyPlaylist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MyPlaylist\\MyPlaylist\\MyPlaylist.csproj": {
+    "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MyPlaylist\\MyPlaylist\\MyPlaylist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MyPlaylist\\MyPlaylist\\MyPlaylist.csproj",
+        "projectUniqueName": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MyPlaylist\\MyPlaylist\\MyPlaylist.csproj",
         "projectName": "MyPlaylist",
-        "projectPath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MyPlaylist\\MyPlaylist\\MyPlaylist.csproj",
+        "projectPath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MyPlaylist\\MyPlaylist\\MyPlaylist.csproj",
         "packagesPath": "C:\\Users\\bella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MyPlaylist\\MyPlaylist\\obj\\",
+        "outputPath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MyPlaylist\\MyPlaylist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bella\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lwnPGFyVQJBu7DINL/pp8vmMSZUEfR1NeVUwNoKaJJQRyM2bGDZfHUNyJFwPpAiCn3aH62hPI4iUdI58gWQNSg==",
+  "dgSpecHash": "UoY1256BO/GNaniJJJjxAJ2L5ak18x2P5uCNS/XIYDWGUN5CdW2UeSi9vcCod3OKPrfWvytVlM8tc3hi66VEkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MusicStreamingService\\MusicStreamingService\\MusicStreamingService.csproj",
+  "projectFilePath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MusicStreamingService\\MusicStreamingService\\MusicStreamingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bella\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\bella\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

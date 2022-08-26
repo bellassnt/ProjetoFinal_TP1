@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MusicStreamingService\\MusicStreamingService\\MusicStreamingService.csproj",
+      "projectUniqueName": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MusicStreamingService\\MusicStreamingService\\MusicStreamingService.csproj",
       "projectName": "MusicStreamingService",
-      "projectPath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MusicStreamingService\\MusicStreamingService\\MusicStreamingService.csproj",
+      "projectPath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MusicStreamingService\\MusicStreamingService\\MusicStreamingService.csproj",
       "packagesPath": "C:\\Users\\bella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\MusicStreamingService\\MusicStreamingService\\obj\\",
+      "outputPath": "C:\\Users\\bella\\OneDrive\\Área de Trabalho\\Top Coders\\Técnicas de programação I\\ProjetoFinal_TP1\\ProjetoFinal_TP1\\MusicStreamingService\\MusicStreamingService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bella\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WebApplication1
+namespace MusicStreamingService
 {
     public interface IRepository<Song>
     {
